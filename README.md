@@ -44,8 +44,8 @@ git status       # показує зміни
 git branch       # показує всі гілки
 git log --oneline # історія комітів
 # додати злиття гілок
-git branch -d setup-wdio
-git push origin --delete setup-wdio
+# git branch -d setup-wdio
+# git push origin --delete setup-wdio
 
 chore: initial commit with project structure
 docs: add README.md with project overview
