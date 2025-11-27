@@ -19,7 +19,7 @@ git commit -m "Setup WebdriverIO project"
 # Відправити гілку на GitHub
 git push origin setup-wdio
 1)	git checkout -b page-objects
-# додати LoginPage.js, InventoryPage.js тощо
+# додати LoginPage.js, InventoryPage.js 
 git commit -m "Add Page Object files"
 git push origin page-objects
 2)	git checkout -b login-tests
